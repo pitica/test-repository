@@ -1,0 +1,4 @@
+#todo lo que se coloca en este archivo no se va a respaldar en el repositorio
+
+node_modules/
+bower_components/
